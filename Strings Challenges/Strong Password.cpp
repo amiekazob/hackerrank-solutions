@@ -1,6 +1,6 @@
 /**
  *    author:  amiekazob
- *    created: 19.12.2023 23:56 A.M     
+ *    created: 19.12.2023 10:56 A.M     
 **/
 //first approch
 #include<bits/stdc++.h>
